@@ -19,3 +19,34 @@ body {
 section {
   padding: 100px 0;
 }
+
+
+/* Song */
+
+.song-lyrics {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  width: 50%;
+  padding: 40px;
+  margin: auto;
+  border: 1px solid #000;
+  border-radius: 20px;
+}
+.song-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 40px;
+  padding-bottom: 0;
+  margin: 0;
+}
+
+.song-info {
+  font-weight: 300;
+  font-style: italic;
+  padding: 15px;
+}
+
+
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
